@@ -5,7 +5,7 @@
         "art_name": "hampster ❤️",
         "creation_date": "29.04.2026",
         "nsfw": false,
-        "link": "/hampster.jpg"
+        "link": "/archive/hampster.jpg"
     },
     {
         "art_uuid": "ef5b2d39-4aa4-4242-a640-7a466e635574",
@@ -13,7 +13,7 @@
         "art_name": "Idk js a sweaty cat (test)",
         "creation_date": "17.05.2025",
         "nsfw": true,
-        "safe_link": "/safe_version.png",
+        "safe_link": "/archive/safe_version.png",
         "link": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ3a3Vlcm51eGVxbWp1M3Izc21zODUxejF1djl4M2R4aWw4bDFtNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/CEM16vbLBI2Y78lT9k/giphy.gif",
         "twitter_link": "https://x.com/Thisishomo"
     }
