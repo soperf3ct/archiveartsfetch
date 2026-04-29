@@ -13,7 +13,7 @@
         "request_timestamp": "2026-04-28 11:44:54",
         "art_name": "test 1",
         "creation_date": "01.01.1900",
-        "nsfw": false,
+        "nsfw": true,
         "link": "https://soperfect.nekoweb.org/scam.png"
     }
 ]
