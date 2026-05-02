@@ -3,6 +3,7 @@
         "art_uuid": "c06cf35a-8c4a-4c3a-9f65-3bfecd515533",
         "request_timestamp": "2026-04-29 13:43:41",
         "art_name": "hampster ❤️",
+        "tags": ["1"],
         "creation_date": "29.04.2026",
         "corn": false,
         "safelikeLink": "/archive/hampster.jpg"
@@ -10,7 +11,8 @@
     {
         "art_uuid": "ef5b2d39-4aa4-4242-a640-7a466e635574",
         "request_timestamp": "2026-04-28 03:48:30",
-        "art_name": "Idk js a sweaty cat (test)",
+        "art_name": "a sweaty cat (test)",
+        "tags": ["2"],
         "creation_date": "17.05.2025",
         "corn": true,
         "safelikeLink": "/archive/safe_version.png",
