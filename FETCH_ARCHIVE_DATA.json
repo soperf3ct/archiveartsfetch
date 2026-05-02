@@ -4,17 +4,17 @@
         "request_timestamp": "2026-04-29 13:43:41",
         "art_name": "hampster ❤️",
         "creation_date": "29.04.2026",
-        "nsfw": false,
-        "link": "/archive/hampster.jpg"
+        "corn": false,
+        "safelikeLink": "/archive/hampster.jpg"
     },
     {
         "art_uuid": "ef5b2d39-4aa4-4242-a640-7a466e635574",
         "request_timestamp": "2026-04-28 03:48:30",
         "art_name": "Idk js a sweaty cat (test)",
         "creation_date": "17.05.2025",
-        "nsfw": true,
-        "safe_link": "/archive/safe_version.png",
-        "link": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ3a3Vlcm51eGVxbWp1M3Izc21zODUxejF1djl4M2R4aWw4bDFtNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/CEM16vbLBI2Y78lT9k/giphy.gif",
+        "corn": true,
+        "safelikeLink": "/archive/safe_version.png",
+        "cornLink": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ3a3Vlcm51eGVxbWp1M3Izc21zODUxejF1djl4M2R4aWw4bDFtNyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/CEM16vbLBI2Y78lT9k/giphy.gif",
         "twitter_link": "https://x.com/Thisishomo"
     }
 ]
